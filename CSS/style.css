@@ -1,0 +1,114 @@
+#Container{
+    border: 1px solid black;
+    margin-left: 25%;
+    width: 50%;
+    height: 100%;
+    background-color:grey
+    }
+    
+    .header{
+    text-align: center;
+    }
+    .One img{
+    width: 35%;
+    height: 30vh;
+    display: inline-block;
+    margin-left: 80px;
+    
+    
+    }
+    
+    .A{
+    float: right;
+    width: 40%;
+    padding-top: 20px;
+    margin-right: 50px;
+    }
+    .Two{
+    padding-top: 50px;
+    
+    }
+    .Two img{
+    width: 35%;
+    height: 30vh;
+    display: inline-block;
+    margin-left: 10px;
+    }
+    .B{
+    float: left;
+    width: 40%;
+    padding-top: 20px;
+    margin-left: 70px;
+    }
+    
+    .Three img{
+    width: 35%;
+    height: 30vh;
+    display: inline-block;
+    margin-left: 80px;
+    padding-top: 50px;
+    }
+    
+    .C{
+    float: right;
+    width: 40%;
+    margin-right: 50px;
+    padding-top: 80px;
+    }
+    
+    .Four img{
+    width: 35%;
+    height: 30vh;
+    display: inline-block;
+    margin-left: 15px;
+    }
+    
+    .D{
+    float: left;
+    width: 40%;
+    padding-top: 80px;
+    margin-left: 70px;
+    }
+    
+    .Five img{
+    width: 35%;
+    height: 30vh;
+    display: inline-block;
+    margin-left: 80px;
+    }
+    
+    .E{
+    float: right;
+    width: 40%;
+    padding-top: 80px;
+    margin-right: 50px;
+    }
+    
+    .F{
+    padding-top: 50px;
+    text-align: center;
+    }
+    .container h1{
+        color: aqua;
+    }
+    .heads{
+        color:green;
+    }
+    .outro{
+        color: red;
+    }
+    .intro1{
+        color: green;
+    }
+    .intro2{
+        color: green
+    }
+    .intro3{
+        color: green;
+    }
+    .intro4{
+        color: green;
+    }
+    .intro5{
+        color: green;
+    }
